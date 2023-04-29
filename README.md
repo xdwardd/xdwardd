@@ -2,7 +2,7 @@
 ![image (3)](https://user-images.githubusercontent.com/47245860/235284813-a6e73847-4d4d-4e0d-83db-37d9ffff5796.png)
 # 💫 About Me:
 
-I am Edward currently working as a software developer focusing on Java (Servlet) for building API endpoints, and also self-studying ReactJS to enhance my front-end development skills, with the aim of becoming a full-stack developer in the near future
+I currently working as a software developer focusing on Java (Servlet) for building API endpoints, and also self-studying ReactJS to enhance my front-end development skills, with the aim of becoming a full-stack developer in the near future
 
 
 # 💻 Tech Stack:
