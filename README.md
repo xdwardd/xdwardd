@@ -1,6 +1,5 @@
 <!-- ### Hi there 👋 -->
 
-![edward](https://user-images.githubusercontent.com/47245860/235284953-0f325be4-14ff-457e-ad37-03155c7606ab.png)
 # 💫 About Me:
 
 
