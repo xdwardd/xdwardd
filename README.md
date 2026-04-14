@@ -7,7 +7,7 @@
 * I've been learning how to Code for 4 years. I started in HTML / CSS and now I know how to fix Electric fan, Cellphone, TV, Printer etc.
 
 🌍  I based in Bogo City, Cebu
-✉️  You can contact me at catapan.edward@wealthbank.com.ph
+✉️  You can contact me at edwardcatapan@gmail.com
 🧠  I'm learning New Technologies.
 🤝  I'm open to collaborating on new interesting project like Artificial Intelligence. I want to build a program that can detect Lotto result.
 ⚡  No Risk, No Story!
